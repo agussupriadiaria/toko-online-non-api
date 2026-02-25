@@ -21,7 +21,7 @@ function App() {
   return (
     <div className="container py-5">
       <header className="text-center mb-5">
-        <h1 className="fw-bold">Katalog Produk</h1>
+        <h1 className="fw-bold">Katalog Produk Online</h1>
       </header>
 
       {/* Search Section */}
