@@ -1,4 +1,4 @@
-function ModalTest({ data }) {
+function ModalTest1({ data }) {
   if (!data) return null;
 
   return (
@@ -36,4 +36,4 @@ function ModalTest({ data }) {
   );
 }
 
-export default ModalTest;
+export default ModalTest1;

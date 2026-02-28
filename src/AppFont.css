@@ -1,0 +1,13 @@
+/* Contoh menggunakan Arial (Sans-Serif) */
+.font-standar {
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+/* Contoh menggunakan Times New Roman (Serif) */
+.font-klasik {
+  font-family: "Times New Roman", Times, serif;
+}
+
+.font-katalog {
+  font-family: "Betania Patmos", cursive;
+}
